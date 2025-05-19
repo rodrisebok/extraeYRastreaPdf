@@ -23,9 +23,6 @@ El script procesa un archivo PDF y extrae información de los movimientos bancar
 ### Instalación
 
 1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/tuusuario/conciliacion-bancaria-python.git
-    ```
 
 2. Instala las dependencias necesarias:
     ```bash
