@@ -7,6 +7,7 @@ El script procesa un archivo PDF y extrae información de los movimientos bancar
 ## Tecnologías
 - **Python**
 - **PyPDF2** (para extraer texto de archivos PDF)
+- **Re**
 
 ## Cómo Funciona
 1. El script lee el archivo PDF con el extracto bancario.
